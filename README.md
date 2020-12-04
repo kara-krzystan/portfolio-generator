@@ -14,7 +14,7 @@ In this module, I used node.js to build a program that creates a GitHub portfoli
 * Using string literals to dynamically generate markdown from the command line
 * How to handle asynchronicity with callbacks and Promises
 
-### In Class Activities
+### Additional Class Activities
 
 * Node.js File System Module
 * How to use npm to initialize a project and install/import Node.js modules
