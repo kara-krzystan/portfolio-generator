@@ -4,7 +4,7 @@
 
 In this module, I used node.js to build a program that creates a GitHub portfolio page using the command line to capture user input and place it in a JavaScript function that outputs a finished HTML page.
 
-## Overview of Concepts Learned in Course Module
+## Overview of Concepts Learned
 
 * Identify the purpose Node.js serves in modern web development and when to use it
 * How to create and execute a Node.js application from the command line
@@ -14,7 +14,7 @@ In this module, I used node.js to build a program that creates a GitHub portfoli
 * Using string literals to dynamically generate markdown from the command line
 * How to handle asynchronicity with callbacks and Promises
 
-## In Class Activities
+### In Class Activities
 
 * Node.js File System Module
 * How to use npm to initialize a project and install/import Node.js modules
