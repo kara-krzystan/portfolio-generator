@@ -22,10 +22,6 @@ In this module, I used node.js to build a program that creates a GitHub portfoli
 * Functional Loops
 * Object Destructuring
 
-## Project Screenshot
-
-_coming soon_
-
 ## Built With
 * HTML
 * CSS
@@ -36,4 +32,8 @@ _coming soon_
 * Inquirer
 * Font Awesome
 * Google Fonts
+
+## Contact
+[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
+
 
